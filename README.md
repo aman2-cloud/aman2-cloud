@@ -22,7 +22,7 @@
 
 ### :technologist: About Me
 
-I'm **Full stack Robotics engineer** from India.
+I'm **Full Stack Robotics Engineer** from India.
 
 - :telescope: I’m developing autonomous systems. 
 
