@@ -35,7 +35,7 @@ I'm **Full Stack Robotics Engineer** from India.
 - :telescope: Education : **B.Tech** from **NIT** Surat (2019 - 23), **Rajkot,Gujarat
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-vyas-10b1871b4/)
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+- ![Leetcode Stats](https://leetcode.com/amanvyas22/)]
 
 ### :hammer_and_wrench: Languages and Tools :
 
