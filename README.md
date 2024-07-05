@@ -22,13 +22,13 @@
 
 ### :technologist: About Me
 
-I'm **Full Stack Robotics Engineer** from India.
+I'm **Full Stack Software Engineer** from India.
 
-- :telescope: I’m developing autonomous systems. 
+- :telescope: I’m developing autonomous software systems. 
 
-- :zap: Interested in vision, manipulation and navigation systems
+- :zap: Interested in vision, manipulation and navigation software systems
 
-- :seedling: Developing skills as Full stack engineer (Hardware + Software)
+- :seedling: Developing skills as Full stack engineer ( Software)
 
 - :zap: In my free time, I read books and watch movies. 
 
